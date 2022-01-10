@@ -1,0 +1,34 @@
+where python
+python --version
+conda list pandas
+where is python
+Where is python
+Which python
+dir
+cd C:
+vir
+dir
+cd Fintech
+cd /
+cd Fintech
+cd Challenge2
+cd loan_qualifier_app
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/etanwinograd/loan_qualifier_app
+git push -u origin main
+git push -u origin master
+pip install fire
+pip install questionary
+pip install fire
+pip install questionary
+cd C:finteC:\Fintech\Challenge2\loan_qualifier_app
+dir
+history 50 > terminal_history.txt
+git status
+git add .
+git status
+git commit -m "added new save function and organized code"
+git push origin master
+doskey /HISTORY > terminal_history.txt
